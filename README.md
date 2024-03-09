@@ -1,1 +1,1 @@
-# Machine Learning ,Data Science & Generative AI
+# Machine Learning ,Data Science & GenerativeAI
