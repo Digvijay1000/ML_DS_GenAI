@@ -7,6 +7,9 @@ __pycache__/
 *.so
 PastHires.csv
 
+# Course Material
+Material_ML_DS_GenAI/
+
 # Distribution / packaging
 .Python
 build/
